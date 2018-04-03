@@ -1,0 +1,12 @@
+gcc -o hello hello.c
+
+cd
+./
+..
+pwd
+ls
+-
+mkdir
+touch
+exit
+
