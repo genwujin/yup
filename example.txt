@@ -9,4 +9,5 @@ ls
 mkdir
 touch
 exit
-
+man
+echo
