@@ -70,7 +70,7 @@ char getOper(){
 	while (scanf(" %c",&oper)) {
         
         if (!(oper == '-' || oper == '+' || oper == '*' || oper == '/')) {
-            printf("Error! Please enter operator + - x / \n ");
+            printf("Error! Please enter operator + - * / \n ");
         } else break;
     }
     printf("You entered: %c\n\n", oper);
